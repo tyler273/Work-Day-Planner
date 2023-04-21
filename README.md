@@ -7,7 +7,7 @@ The goal of this project was create an application that would create a planner t
 
 ## Usage
 
-<img src="https://github.com/tyler273/password-generator/blob/main/images/livesite.png" />
+<img src="https://github.com/tyler273/work-day-planner/blob/main/assets/images/preview.png" />
 
 [Click here for repo](https://github.com/tyler273/work-day-planner)
 
